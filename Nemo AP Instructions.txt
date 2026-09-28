@@ -1,0 +1,91 @@
+## How This Randomizer Works ##
+
+This is a Manual AP, meaning there is no modification to the game itself.
+Instead, you use a Manual Client that is connected to the server but not the game, and manually check off each location as you go.
+Basically, it's the honour system.
+
+## Setup ##
+
+You can play this randomizer with any version of Finding Nemo for PS2, Xbox or GameCube. This includes using the original disc on console, or emulation.
+The only additional piece of software you need is the apworld.
+
+Before you start, you'll need to input the Open Levels cheat code, which unlocks every level in the game including Bonus Levels.
+To use the Open Levels code, go to the title screen and input the following buttons:
+- PS2: Triangle Triangle Triangle Square Square Circle Square Triangle Circle Square Triangle Square Triangle Square Triangle Circle Triangle Triangle
+- Xbox: Y Y Y X X B X Y B X Y X Y X Y B Y Y
+- GCN: Y Y Y B B X B Y X B Y B Y B Y X Y Y
+If you did it right, you'll see the word "Cheat!" appear.
+After that, boot up a New Game, pause, and enable the "Open Levels" cheat.
+You can also load a save file with every level beaten and 0/60 Starfish, to enable skippable cutscenes. However, you will still need the Open Levels cheat to open the Bonus Levels.
+
+After generating your seed as normal, open the Manual Client from the Archipelago Launcher.
+Ensure that the game name is set to "Manual_Finding Nemo_DrRank", then connect to the server.
+It is also recommended that you install the Universal Tracker (downloaded separately), to more easily identify available locations.
+## Goal ##
+
+You have three options for your objective:
+- Fishing Net Rescue: Complete the level Fishing Net Rescue. This requires only its Level Key and Nemo.
+- All Levels: Complete all 18 levels and unlock the credits. This requires all 18 Level Keys, all 3 Characters, the Luxo Ball, and the Red Pebble.
+- 100%: Same as All Levels, but you also need to collect a certain number of Starfish. You can adjust how many Starfish you need in the options.
+
+## Items & Rules ##
+
+Client Management:
+In the Client, you will find the "Manual" tab, where you can view all your current items and available location checks.
+If you're using the Universal Tracker, any checks that are in logic (that is, currently reachable) will be highlighted in green.
+Once you complete a location check, click on its button in the client to award its item.
+Checks exist for the following scenarios:
+- Clearing Levels (that is, reaching the end)
+- Completing Starfish objectives:
+	- Bubble Ring Bonus (swim through all Bubble Rings)
+	- Hero Bonus (defeat all killable enemies using Bubbles)
+	- Pebble Bonus (carry the Red, Green and Blue Pebbles to their matching platforms; requires the Pebble items)
+	- Bounce Bonus (bounce on every tile during a bouncing section)
+	- Race Bonus (win the race)
+	- Luxo Ball Bonus (send the Luxo Ball through all Hoops; requires the Luxo Ball item)
+	- Slide Puzzle (unscramble the image)
+	- Pairs (match all the card pairs)
+	- Simon Says (copy the sequence of shapes that the Moonfish form)
+
+Characters:
+- Nemo
+- Marlin
+- Dory
+You begin the run with one of these unlocked at random.
+When a character is locked, you may not provide any controller inputs as them other than Start.
+In levels where you can manually change characters by tagging them, you may not tag a locked character.
+
+Levels:
+There is one Level item for each of the 18 levels in the game.
+You begin the run with one level unlocked at random, being one that your starting character can complete.
+You can only enter a level that you have unlocked.
+Completing a level counts as a check, as does completing a Starfish objective within that level.
+
+Starfish:
+There are 60 Starfish in the game, all of them level-dependant.
+Some levels have more Starfish than others; this is part of the game itself.
+Collecting at least one Starfish for any given level allows you to access its Bonus Level.
+To play a Bonus Level, highlight its base level, press Up, and then press A (X on PS2).
+Bonus Levels award two checks: one for the Starfish, and one for the Bonus itself.
+There are also checks for every 10th Starfish you collect in total.
+
+Misc:
+- Red Pebble
+- Green Pebble
+- Blue Pebble
+- Luxo Ball
+These items represent interactible objects you can find in the game.
+You may not interact with any of these objects in any level until you unlock them.
+The five pebbles in The Plan count as Red Pebbles.
+
+Filler:
+All remaining items are filler and have no functional purpose.
+The Shells item would add 10 Shells to your score, but this cannot be implemented until a modded version is created.
+The other filler items exist purely for flavour.
+
+## Future Plans ##
+- Modded/Patched version
+- ShellSanity - adding checks for individual Shells in the levels
+- DeathSanity - adding checks for unique death/failure animations
+- Trap support
+- QOL options, including easier Bonus Levels
