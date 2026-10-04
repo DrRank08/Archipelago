@@ -1,0 +1,66 @@
+## How This Randomizer Works ##
+
+This is a Manual AP, meaning there is no modification to the game itself.
+Instead, you use a Manual Client that is connected to the server but not the game, and manually check off each location as you go.
+Basically, it's the honour system.
+
+## Setup ##
+
+You can play this randomizer with any version of Crash Nitro Kart for PS2, Xbox or GameCube. This includes using the original disc on console, or emulation.
+The only additional piece of software you need is Archipelago and the apworld.
+It is also recommended that you install the Universal Tracker (downloaded separately), to more easily identify available locations.
+
+Before you start, you'll need to set up a save file with access to every Warp Pad.
+In the Xbox and NTSC-U PS2 versions, this requires 12 Trophies, 4 Keys, 16 CNK Tokens and the Blue Gem.
+In all other versions, you need all 4 Gems.
+If you already have a 101% save file, feel free to use that.
+Additionally, you must start the run from the Terra hub world, as either Crash Bandicoot or Dr. Neo Cortex.
+
+In the Archipelago Options Creator, you will find your game options under "Manual_CNK_DrRank".
+After generating your seed as normal, open the Manual Client from the Archipelago Launcher.
+Ensure that the game name is set to "Manual_CNK_DrRank", then connect to the server.
+
+## Goal ##
+
+You have two options for your objective:
+- Velo Defeated: Win the Boss Race against Emperor Velo. This requires 4 Keys.
+- True Ending: Win the Boss Race against Emperor Velo with enough Relics to unlock the true ending. You can adjust what type of Relic you need with the True Ending Requirement option.
+
+## Items & Rules ##
+
+Client Management:
+In the Client, you will find the "Manual" tab, where you can view all your current items and available location checks.
+If you're using the Universal Tracker, any checks that are in logic (that is, currently reachable) will be highlighted in green.
+Once you complete a location check, click on its button in the client to award its item.
+
+Checks exist for the following scenarios:
+- Crossing the finish line on each track. This can be done in any mode except Relic Race.
+- Finishing each track on the podium (that is, 3rd or better). This can be done in any mode except Relic Race.
+- Finishing each track in 1st, or letting your teammate do so. This is equivalent to winning the Trophy Race, but can be done in any mode except Relic Race.
+- Using a Team Frenzy on each track. This can be done in any mode except Relic Race or Boss Race.
+- Completing a CNK Challenge.
+- Finishing a Relic Race within the Relic Times. The Relic Times for each track are listed within the Client.
+- Breaking all the Time Crates during a Relic Race. These checks are only present if you enable them.
+- Winning Boss Races.
+- Winning Gem Cups.
+- Reaching a Boost Combo of 50 or more during a race (unlocks Pura/Fake Crash in vanilla). This can be done in any mode.
+
+Characters:
+All characters appear as items in the pool.
+You begin the run with only Crash Bandicoot and Dr. Neo Cortex unlocked.
+Once you unlock a character, you may use them in any level.
+Characters outside your team will still appear in the pool as filler items.
+
+Levels:
+You begin the run with access to only the Terra hub world, and the CNK Challenges for Inferno Island and Jungle Boogie.
+Level unlock criteria is identical to the vanilla game, with the following exceptions:
+- Meteor Gorge, Barin Ruins, Out of Time and Assembly Lane no longer require Trophies. They are playable as soon as their respective hub worlds are available.
+- CNK Challenges are playable at the same time as their respective Trophy Races.
+- Relic Races, however, still require Keys to open.
+- Velo's Vault is accessible with only 1 Key.
+- Hyper Spaceway requires 4 Gems, as originally intended.
+- Entering locked tracks early has not been factored into the logic.
+
+If you see that a track's Finish or Team Frenzy checks are available, but not the CNK Challenge, that means you can only play that track through a Gem Cup.
+
+Level locations and unlock requirements are not randomized at this time, but this may change with a future version.
